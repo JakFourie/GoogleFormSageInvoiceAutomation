@@ -1,5 +1,5 @@
 # GoogleFormSageInvoiceAutomation
-This script is written in Google Apps Script and is designed to automate a data entry process for creating invoices in Sage One accounting software.
+This script is written in Google Apps Script and is designed to automate a data entry process for creating invoices in Sage One accounting software. I hope it helps someone with structuring the API calls to and from the Sage API.
 
 Using ChatGPT:
 
